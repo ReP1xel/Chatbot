@@ -1,3 +1,3 @@
 # Chatbot
-Support Vietnamese Language\n
+Support Vietnamese Language/n
 Data train: chatbot.csv
